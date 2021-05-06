@@ -1,0 +1,15 @@
+Библиотеки, требуемые для запуска проекта pyTetris
+------------------------------------------------
+1) pygame - библиотека поддержки создания простых компьютерных игр
+установка в Windows: pip install pygame
+устновка в Linux (тестировалось на Linux Mint 2020.1):
+(skiped)@linux_box: sudo python3 -m pip install pygame
+
+------------------------------------------------
+Если что-то "пошло не так".
+1) установить Linux (тестировалось на Linux Mint 2020.1)
+2) для установки python3 выполнить:
+    (skiped)@linux_box: sudo apt install python3
+3) для установки библиотеки pygame выполнить:
+   (skiped)@linux_box: sudo python3 -m pip install pygame
+
